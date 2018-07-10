@@ -1,5 +1,5 @@
 {
-    "name": "bluerhinos/phpmqtt",
+    "name": "alexsuperstar/phpmqtt",
     "description": "Simple MQTT Class",
     "license": "BSD",
     "type": "library",
